@@ -10,7 +10,7 @@ main() {
   late final double x;
   x = 10;
 
-  print(z);
+  //print(z);
 
   // final personalFinal = ['Juan', 'Pedro', 'Fernando'];
   // const personalConst = ['Juan', 'Pedro', 'Fernando'];
